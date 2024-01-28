@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node ./.github/scripts/index.js",
+    "prestart": "npm install"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "canvas": "^2.11.2"
+  }
+}
