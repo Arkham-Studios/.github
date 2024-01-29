@@ -1,4 +1,4 @@
-![Arkham Studios](https://raw.githubusercontent.com/Arkham-Studios/.github/images/banner.jpg)
+![Arkham Studios](https://raw.githubusercontent.com/Arkham-Studios/.github/images/banner.png)
 ## About Arkham Studios
 
 Arkham Studios is a passionate team of 4 developers dedicated to crafting an exceptional player experience. We've poured our enthusiasm into every aspect of Prisons to ensure it's an unforgettable journey.
