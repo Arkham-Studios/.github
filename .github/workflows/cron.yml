@@ -1,7 +1,7 @@
 name: "Update Banner"
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
